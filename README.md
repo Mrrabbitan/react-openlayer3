@@ -1,2 +1,3 @@
 # react-openlayer3
 使用openlayer3的开源API来创建一个web项目
+创建该项目的目的在于把自己在脚手架下爬的坑填上
